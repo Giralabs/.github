@@ -14,6 +14,7 @@ Reference document for all repositories under the Giralabs organization. Defines
 - [Code Review](#code-review)
 - [Conflict Resolution](#conflict-resolution)
 - [Dos and Donts](#dos-and-donts)
+- [Release Versioning](#release-versioning)
 
 ---
 
@@ -442,7 +443,7 @@ Never use `--force` on shared branches: you can overwrite someone else's work.
 
 ---
 
-## Release versioning
+## Release Versioning
 
 For the full versioning policy — when to bump MAJOR, MINOR, or PATCH, how to tag
 releases in Git, how to write changelogs, and how to handle hotfixes — see
