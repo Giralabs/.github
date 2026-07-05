@@ -58,7 +58,7 @@ We do not carry dead weight. Every dependency earns its place.
 
 Have a project in mind or want to collaborate?
 
-[![Email](https://img.shields.io/badge/hello@giralabs.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@giralabs.dev)
+[![Email](https://img.shields.io/badge/support@giralabs.es-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@giralabs.dev)
 [![GitHub](https://img.shields.io/badge/github.com/giralabs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/giralabs)
 
 ---
